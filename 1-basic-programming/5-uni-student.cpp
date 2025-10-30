@@ -20,6 +20,4 @@ int main () {
     studentOne.basicProgrammingGrade = 6.00;
 
     std::cout << "avarage: " << studentOne.name <<  " " <<  studentGpa(studentOne) << std::endl;
-
-
 }
