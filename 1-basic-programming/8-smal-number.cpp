@@ -23,4 +23,5 @@ int main() {
   } else {
       cout << "The smallest number is" << thirdNumber;
   }
+
 }
