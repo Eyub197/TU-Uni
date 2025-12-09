@@ -14,15 +14,15 @@ struct Contestant {
 const int MAX_NUM_OF_CONTESTANTS = 30;
 
 int main() {
-    int menuChoice;
+    int menuChoice = 0;
 
-    std::cout << "Chose a option from the menu";
+    std::cout << "Chose a option from the menu: ";
 
     std::cin >> menuChoice;
 
     switch(menuChoice) {
-        case 1:
-            "Add items here";
+       case 1:
+        std::cout << "add";
         break;
     }
 }
