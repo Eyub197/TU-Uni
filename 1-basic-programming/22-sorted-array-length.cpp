@@ -1,4 +1,5 @@
 #include <iostream>
+
 void bubbleSort(int array[], int lengthOfArray) {
     bool ok;
     do {
